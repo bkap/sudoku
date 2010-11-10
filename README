@@ -1,0 +1,10 @@
+This is the sudoku program. It has some test cases in it. Run the program to
+execute the test cases. You can also run sudoku.py -r to read the puzzle from
+the command line (press CTRL-D when you are finished) or sudoku.py -f <file> to
+read from a file. Using those options, you can only enter up to a 9x9 puzzle.
+There are no delimeters in the puzzle- a number means that there is that number
+in the cell, a space is a blank.
+
+Even though the program can only take a 9x9, 4x4, and 6x6 puzzle as inputs, the
+puzzle solver can solve sudokus of any size as demonstrated with a 16x16 puzzle
+in the test cases
